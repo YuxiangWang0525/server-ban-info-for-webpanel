@@ -1,0 +1,18 @@
+{
+  "name": "serverbaninfo",
+  "version": "1.0.0",
+  "description": "EasyBanIPInfoPage-For BT and PHPStudy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BT",
+    "Ban",
+    "PHPStudy",
+    "Linux",
+    "Ban"
+  ],
+  "author": "YuxiangWang_0525",
+  "license": "MIT"
+}
